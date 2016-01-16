@@ -1,4 +1,4 @@
-kurree
+kuree
 ======
 
 curry module
