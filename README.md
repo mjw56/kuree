@@ -13,7 +13,7 @@ npm install kuree
 var kuree = require('kuree');
 
 function sum(a, b, c) {
-  return a, b, c;
+  return a + b + c;
 }
 
 kuree(sum)(1, 2, 3);
